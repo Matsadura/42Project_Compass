@@ -3,14 +3,13 @@
 Your contribution during the developpement phase is highly appreciated, read this page for more info [How To Contribute](./CONTRIBUTING.md)
 
 ---
-![image](https://github.com/user-attachments/assets/973fd1b1-592c-44f8-9736-19dbe772ab03)
+![image](https://github.com/user-attachments/assets/46c7b143-5388-49d2-9f0e-b770486efab5)
 
 ![image](https://github.com/user-attachments/assets/df1204f0-a066-4413-86fe-8f2b979364e4)
 
-![image](https://github.com/user-attachments/assets/9136b03c-a52b-4521-9d93-e46a9cb04cce)
+![image](https://github.com/user-attachments/assets/f28be6a5-1f53-4cd0-8ef1-2085aea9dccf)
 
-![image](https://github.com/user-attachments/assets/c2375326-f3a3-405f-ae34-cc219ead3d03)
-
+![image](https://github.com/user-attachments/assets/f563d9dd-355b-41bc-a0d2-9faf2292726c)
 
 ## Alpha phase and are subject to change
 ---
