@@ -191,40 +191,47 @@ function formatJSON(data) {
 }
 
 /**
- * Formats resources JSON into an HTML list of links
+ * Formats resources JSON into a styled HTML list of links
  * @param {Object} data - The resources data to format
- * @returns {string} HTML list of resource links
+ * @returns {string} Styled HTML list of resource links
  */
 function formatResourcesJSON(data) {
-    let html = '<ul>';
+    let html = '<div class="resources-list">';
     for (const key in data) {
         if (data.hasOwnProperty(key)) {
-            html += `<li><a href="${data[key]}" target="_blank">${key}</a></li>`;
+            html += `
+                <div class="resource-item">
+                    <a href="${data[key]}" target="_blank" rel="noopener noreferrer">
+                        <span class="resource-title">${key}</span>
+                    </a>
+                </div>
+            `;
         }
     }
-    html += '</ul>';
+    html += '</div>';
     return html;
 }
 
 /**
- * Recursively creates an HTML list from a nested object
+ * Recursively creates a styled HTML list from a nested object
  * @param {Object} obj - The object to convert to an HTML list
- * @returns {string} HTML representation of the object
+ * @returns {string} Styled HTML representation of the object
  */
 function createList(obj) {
-    let html = '<ul>';
+    let html = '<div class="nested-list">';
     for (const key in obj) {
         if (obj.hasOwnProperty(key)) {
-            html += `<li>`;
+            html += `<div class="list-item">`;
+            html += `<span class="list-key">${parseInt(key, 10) + 1}:</span>`;
             if (typeof obj[key] === 'object' && obj[key] !== null) {
                 html += createList(obj[key]);
             } else {
-                html += `<strong>${obj[key]}</strong>`;
+                html += `<span class="list-value">${obj[key]}</span>`;
             }
-            html += '</li>';
+            html += '</div>';
         }
     }
-    html += '</ul>';
+    html += '</div>';
     return html;
 }
 
