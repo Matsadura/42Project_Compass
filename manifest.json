@@ -37,12 +37,7 @@
             "matches": ["https://projects.intra.42.fr/*"]
         }
     ],
-    "permissions": [
-        "tabs",
-        "scripting",
-        "storage"
-    ],
     "host_permissions": [
-        "https://projects.intra.42.fr/*"
+    	"https://projects.intra.42.fr/*"
     ]
 }
