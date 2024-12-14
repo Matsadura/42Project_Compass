@@ -24,6 +24,9 @@ Whether you're a beginner striving to build your foundation or an advanced learn
 
 ## Installation
 
+Via [Chrome Web Store](https://chromewebstore.google.com/detail/42project-compass/akhomholkmgkfcjeddadmdnionacnljl?hl=en-US&utm_source=ext_sidebar)
+
+Or Manually: 
 1. **Download the Extension**:  
    Clone the repository
 

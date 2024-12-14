@@ -1,7 +1,11 @@
 {
-	"What is a (physical) server - text": "https://en.wikipedia.org/wiki/Server_%28computing%29#Hardware_requirement",
-	"What is a (physical) server - video": "https://www.youtube.com/watch?v=B1ANfsDyjeA",
+	"What is virtualization and virtuel machine?": "https://www.ibm.com/topics/virtualization",
+	"What is a tty?": "https://en.wikipedia.org/wiki/Tty_(Unix)",
+	"What is LVM? And How it works?": "https://www.techtarget.com/searchdatacenter/definition/logical-volume-management-LVM",
+	"What is AppArmor?": "https://documentation.ubuntu.com/server/how-to/security/apparmor/",
+	"What is a (physical) server - text?": "https://en.wikipedia.org/wiki/Server_%28computing%29#Hardware_requirement",
+	"What is a (physical) server - video?": "https://www.youtube.com/watch?v=B1ANfsDyjeA",
 	"SSH definition and process": "https://www.cloudflare.com/learning/access-management/what-is-ssh/",
 	"UFW definition and process": "https://help.ubuntu.com/community/UFW",
-	"What is virtualization and virtuel machine": "https://www.ibm.com/topics/virtualization"
+	"Cron": "https://en.wikipedia.org/wiki/Cron"
 }
