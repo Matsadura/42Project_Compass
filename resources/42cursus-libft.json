@@ -1,5 +1,21 @@
 {
-	"C - Static Library vs Dynamic Library": "https://medium.com/@abhishekjainindore24/static-library-vs-dynamic-library-understanding-the-differences-26e47cac93b6",
-	"C - Memory": "https://craftofcoding.wordpress.com/2015/12/07/memory-in-c-the-stack-the-heap-and-static/",
-	"C - Pointer to Pointer": "https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm"
+	"Static Library vs Dynamic Library": "https://medium.com/@abhishekjainindore24/static-library-vs-dynamic-library-understanding-the-differences-26e47cac93b6",
+	"Memory in C the Stack, the Heap and Static": "https://craftofcoding.wordpress.com/2015/12/07/memory-in-c-the-stack-the-heap-and-static/",
+	"Stack and Heap Memory": "https://courses.grainger.illinois.edu/cs225/sp2022/resources/stack-heap/",
+	"dynamic memory allocation in C": "https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/",
+	"Pointer to Pointer": "https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm",
+	"Handling a file by its descriptor in C": "https://www.codequoi.com/en/handling-a-file-by-its-descriptor-in-c/",
+	"File Descriptor Explained": "https://youtu.be/KM5sRWAYqaw",
+	"Two's Compliment": "https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html",
+	"Header file in C" :"https://www.geeksforgeeks.org/header-files-in-c-cpp-and-its-uses/",
+	"Header files directives in C": "https://medium.com/@muirujackson/header-files-directives-in-c-546db6ee56e3",
+	"Makefile tutorial": "https://makefiletutorial.com/",
+	"What is a Makefile and How does it Work": "https://opensource.com/article/18/8/what-how-makefile",
+	"GNU make": "https://www.gnu.org/software/make/manual/make.pdf",
+	"Struct in C": "https://medium.com/@hatronix/mastering-structs-in-c-an-in-depth-guide-4a524af06fd4",
+	"Struct Padding in C": "https://interrupt.memfault.com/blog/c-struct-padding-initialization?utm_source=abyteofcodingnewsletter",
+	"Linked List tutorial": "https://www.geeksforgeeks.org/singly-linked-list-tutorial/",
+	"Linked List Playlist": "https://www.youtube.com/watch?v=G8A3rAB3IM4&list=PLsGJzJ8SQXTeekVrjC0Nq3xGq1pXi6cQO",
+	"function pointer tutorial": "https://www.youtube.com/watch?v=RtLFA99aEzo",
+	"function pointer in C": "https://www.tutorialspoint.com/cprogramming/c_function_pointers.htm"
 }

@@ -1,5 +1,8 @@
 {
-    "stdarg.h": "https://en.wikipedia.org/wiki/Stdarg.h",
-    "Variadic Functions": "https://www.gnu.org/software/libc/manual/html_node/Variadic-Functions.html",
-    "Const Keyword": "https://www.youtube.com/watch?v=1W4oyuOdXv8"
+	"stdarg.h": "https://en.wikipedia.org/wiki/Stdarg.h",
+	"Variadic Functions": "https://www.gnu.org/software/libc/manual/html_node/Variadic-Functions.html",
+	"Const Keyword": "https://www.youtube.com/watch?v=1W4oyuOdXv8",
+	"Processor register": "https://en.wikipedia.org/wiki/Processor_register",
+	"Passing NULL to printf in C": "https://geekfactorial.blogspot.com/2016/08/passing-null-to-printf-in-c.html",
+	"Formated Output (GNU C Library)": "https://www.gnu.org/software/libc/manual/html_node/Formatted-Output.html#Formatted-Output"
 }
