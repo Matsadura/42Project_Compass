@@ -1,0 +1,12 @@
+[
+    "What is a PIPE and what is it's purpose",
+	"How is the PIPE managed by the Kernal",
+	"What is a parent-child process relationship",
+    "How does the fork() syscall works",
+    "What happens after the child process is created.",
+	"How can the parent process track the state of the child process",
+	"What is execve and how does it work",
+	"What happens when a process terminates",
+	"What is the difference between exit() and _exit()",
+	"What is an Orphan and a Zombie process"
+]

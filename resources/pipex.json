@@ -1,0 +1,10 @@
+{
+	"pipe()" : "https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf#G50.1116978", 
+	"fork()" : "https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf#G30.1096565",
+	"wait()" : "https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf#G32.1088299",
+	"execve()" : "https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf#G33.1088299",
+	"exit & _exit" : "https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf#G31.1088299",
+	"PIPE behind the scenes": "https://www.cs.utexas.edu/~rossbach/cs380p/papers/ulk3.pdf#G23.1000034476",
+	"The Linux Programming Interface" : "https://broman.dev/download/The%20Linux%20Programming%20Interface.pdf",
+	"Understanding The Linux Kernal" : "https://www.cs.utexas.edu/~rossbach/cs380p/papers/ulk3.pdf"
+}
