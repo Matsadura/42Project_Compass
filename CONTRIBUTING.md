@@ -15,10 +15,12 @@ Thank you for considering contributing to this project! Your contributions are h
 
 ### 2. If Your Contribution Is a Learning Objective or Resource Addition:
 
+**Fork the DATABASE repository [42Project_compass_DB](https://github.com/Matsadura/42project_compass_DB)**
+
 1. Navigate to the directory of your cloned fork:
 
    ```bash
-   cd 42project_compass
+   cd 42project_compass_DB
    ```
 
 2. Depending on your contribution type:
