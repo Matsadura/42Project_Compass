@@ -1,4 +1,4 @@
-# **42Project Compass (Under active developpement)**
+# **42Project Compass**
 ---
 Your contribution during the developpement phase is highly appreciated, read this page for more info [How To Contribute](./CONTRIBUTING.md)
 
